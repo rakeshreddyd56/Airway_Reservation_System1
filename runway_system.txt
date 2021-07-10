@@ -1,0 +1,8 @@
+Runway reservation made for flight number JET9874 from 11:35 to 12:05
+Runway reservation made for flight number JET9243 from 12:45 to 13:15
+Runway is booked during: 10:45 to 11:15
+Runway is booked during: 12:45 to 13:15
+Please provide a half an hour interval, in 24 Hour clock military format.
+Runway reservation made for flight number DEC6753 from 10:10 to 10:40
+Runway reservation made for flight number DBC6754 from 9:10 to 9:40
+['09:10', '10:10', '11:00', '11:35', '12:45']
